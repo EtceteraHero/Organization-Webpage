@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/organization-webpage/static/css/main.f91cc46e.chunk.css",
-    "main.js": "/organization-webpage/static/js/main.8d99fe4e.chunk.js",
-    "main.js.map": "/organization-webpage/static/js/main.8d99fe4e.chunk.js.map",
-    "runtime-main.js": "/organization-webpage/static/js/runtime-main.3d4d3a1f.js",
-    "runtime-main.js.map": "/organization-webpage/static/js/runtime-main.3d4d3a1f.js.map",
-    "static/js/2.682f8109.chunk.js": "/organization-webpage/static/js/2.682f8109.chunk.js",
-    "static/js/2.682f8109.chunk.js.map": "/organization-webpage/static/js/2.682f8109.chunk.js.map",
-    "static/js/3.374178e0.chunk.js": "/organization-webpage/static/js/3.374178e0.chunk.js",
-    "static/js/3.374178e0.chunk.js.map": "/organization-webpage/static/js/3.374178e0.chunk.js.map",
-    "index.html": "/organization-webpage/index.html",
-    "static/css/main.f91cc46e.chunk.css.map": "/organization-webpage/static/css/main.f91cc46e.chunk.css.map",
-    "static/js/2.682f8109.chunk.js.LICENSE.txt": "/organization-webpage/static/js/2.682f8109.chunk.js.LICENSE.txt",
-    "static/media/cat-logo.1a05e95d.png": "/organization-webpage/static/media/cat-logo.1a05e95d.png",
-    "static/media/App.css": "/organization-webpage/static/media/cats_paw.4c552726.jpg"
+    "main.css": "/Organization-Webpage/static/css/main.889ea2e7.chunk.css",
+    "main.js": "/Organization-Webpage/static/js/main.8d99fe4e.chunk.js",
+    "main.js.map": "/Organization-Webpage/static/js/main.8d99fe4e.chunk.js.map",
+    "runtime-main.js": "/Organization-Webpage/static/js/runtime-main.6f03a13b.js",
+    "runtime-main.js.map": "/Organization-Webpage/static/js/runtime-main.6f03a13b.js.map",
+    "static/js/2.682f8109.chunk.js": "/Organization-Webpage/static/js/2.682f8109.chunk.js",
+    "static/js/2.682f8109.chunk.js.map": "/Organization-Webpage/static/js/2.682f8109.chunk.js.map",
+    "static/js/3.374178e0.chunk.js": "/Organization-Webpage/static/js/3.374178e0.chunk.js",
+    "static/js/3.374178e0.chunk.js.map": "/Organization-Webpage/static/js/3.374178e0.chunk.js.map",
+    "index.html": "/Organization-Webpage/index.html",
+    "static/css/main.889ea2e7.chunk.css.map": "/Organization-Webpage/static/css/main.889ea2e7.chunk.css.map",
+    "static/js/2.682f8109.chunk.js.LICENSE.txt": "/Organization-Webpage/static/js/2.682f8109.chunk.js.LICENSE.txt",
+    "static/media/cat-logo.1a05e95d.png": "/Organization-Webpage/static/media/cat-logo.1a05e95d.png",
+    "static/media/App.css": "/Organization-Webpage/static/media/cats_paw.4c552726.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d4d3a1f.js",
+    "static/js/runtime-main.6f03a13b.js",
     "static/js/2.682f8109.chunk.js",
-    "static/css/main.f91cc46e.chunk.css",
+    "static/css/main.889ea2e7.chunk.css",
     "static/js/main.8d99fe4e.chunk.js"
   ]
 }
